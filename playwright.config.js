@@ -10,7 +10,7 @@ dotenv.config({ path: `${__dirname}/.env` });
  */
 
 const browserType = process.env.BROWSER_TYPE || 'chromium';
-const isMobile = process.env.IS_MOBILE === 'true'; 
+const isMobile = process.env.IS_MOBILE || 'true'; 
 
 const projects = selectProjects(browserType, isMobile);
  
@@ -43,7 +43,7 @@ const config = {
   reporter: 'html',
 
   use: {
-    headless: process.env.HEADLESS === 'false', // Run tests in non-headless mode to see the browser.
+    headless: process.env.HEADLESS || 'false', // Run tests in non-headless mode to see the browser.
     actionTimeout: 0, // No limit on individual action timeouts.
     baseURL: process.env.BASE_URL, // Base URL for all navigations.
     screenshot: 'on', // Take a screenshot for each test step.
