@@ -4,7 +4,7 @@
 - [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/csvipin31)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vipin-singh-7418b4166)
 
-# 💻 Test Automation Framework | Web UI 
+# 💻 Web UI Automation Framework 
 
 [![Playwright](https://img.shields.io/badge/Playwright-34495E?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js.org/index.html) 
