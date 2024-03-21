@@ -1,9 +1,9 @@
 # Playwright_Test_Frameworks 💻  Bolierplate Test Automation Framework
 
 - [![author] (Vipin Singh)]
-- [![Email] (cs.vipin31@gmail.com || singh.vipin3105@gmail.com)]
-- [![GitHub Profile] (https://github.com/csvipin31)]
-- [![LinkedIn] (https://www.linkedin.com/in/vipin-singh-7418b4166/)]
+- [![Email](https://img.shields.io/badge/Email-rajatvermaa95%40gmail.com-green)](mailto:cs.vipin31@gmail.com )
+- [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/csvipin31)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vipin-singh-7418b4166)
 
 # 💻 Test Automation Framework | Web UI 
 
